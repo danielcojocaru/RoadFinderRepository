@@ -1,0 +1,59 @@
+ramnicu valcea;pitesti;62
+bukarest;ploiesti;61
+bukarest;pitesti;117
+bukarest;urziceni;58
+bukarest;alexandria;88
+bukarest;constanta;226
+pitesti;brasov;138
+ploiesti;brasov;109
+ramnicu valcea;Hermannstadt;92
+pitesti;craiova;121
+Hermannstadt;brasov;142
+Hermannstadt;deva;117
+Hermannstadt;alba iulia;72
+alba iulia;cluj napoca;98
+deva;arad;179
+deva;temeschwar;149
+arad;temeschwar;54
+oradea;arad;118
+oradea;cluj napoca;153
+oradea;deva;216
+oradea;satu mare;133
+cluj napoca;baia mare;148
+satu mare;baia mare;59
+bistrita;cluj napoca;110
+bistrita;baia mare;147
+cluj napoca;targu mures;111
+targu mures;bistrita;92
+bistrita;suceava;191
+suceava;botosani;44
+suceava;piatra neamt;101
+suceava;iasi;145
+iasi;botosani;109
+iasi;piatra neamt;130
+iasi;vaslui;66
+iasi;bacau;128
+bacau;brasov;180
+bacau;focsani;105
+bacau;piatra neamt;61
+piatra neamt;bistrita;226
+piatra neamt;targu mures;189
+targu mures;brasov;171
+vaslui;focsani;138
+focsani;braila;91
+focsani;buzau;72
+buzau;braila;104
+braila;tulcea;96
+tulcea;constanta;135
+buzau;slobozia;92
+slobozia;braila;96
+slobozia;urziceni;63
+slobozia;bukarest;129
+slobozia;constanta;139
+urziceni;buzau;53
+urziceni;ploiesti;63
+craiova;alexandria;140
+craiova;pitesti;122
+craiova;ramnicu valcea;120
+craiova;deva;252
+craiova;temeschwar;341
